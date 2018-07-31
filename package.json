@@ -1,0 +1,23 @@
+{
+  "name": "pairexercise.node-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epark17/PairExercise.Node-Shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epark17/PairExercise.Node-Shell/issues"
+  },
+  "homepage": "https://github.com/epark17/PairExercise.Node-Shell#readme"
+}
